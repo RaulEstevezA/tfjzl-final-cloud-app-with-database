@@ -124,6 +124,10 @@ This repository comes from a fork/base project used in the IBM Developer Skills 
 
 The IBM reference is kept because the original assignment, starter structure, and part of the resources belong to the course context.
 
+## License
+
+This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
+
 ## Project Status
 
 Academic project completed as Django practice. It can be used as a simple reference for connecting models, views, templates, and SQL relationships in a basic web application.

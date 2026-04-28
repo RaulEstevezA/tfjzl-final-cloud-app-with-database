@@ -124,6 +124,10 @@ Este repositorio procede de un fork/material base del curso de IBM Developer Ski
 
 Se mantiene la referencia a IBM porque el planteamiento original, la estructura inicial del laboratorio y parte de los recursos pertenecen al contexto formativo del curso.
 
+## Licencia
+
+Este proyecto esta licenciado bajo Apache License 2.0. Consulta el archivo [LICENSE](LICENSE) para mas detalles.
+
 ## Estado del proyecto
 
 Proyecto academico finalizado como practica de Django. Puede servir como referencia sencilla para entender como conectar modelos, vistas, plantillas y relaciones SQL en una aplicacion web basica.
